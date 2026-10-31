@@ -23,7 +23,7 @@ As of 2026-01-05, 58 Christmas deals from 28 prop firms are tracked, 55 of them 
 
 **The Christmas 2026 season is coming soon.** The last season that ran was 2025: 55 deals from 28 firms, published 2025-12-01 to 2025-12-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
 
-The biggest verified Christmas discount codes in the 2025 season are 90% OFF with code PFD at Upcomers, 70% OFF with code PFD at Funding Traders, 50% OFF with code PFD at Atlas Funded, 50% OFF with code PFD at Earn2Trade, and 50% OFF with code PFD at QT Funded.
+The biggest verified Christmas discount codes in the 2025 season are 85% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at Blue Guardian, and 50% OFF with code PFD at QT Funded.
 
 ## Prop Firms with the Highest Discount Codes in Christmas 2025
 
