@@ -8,7 +8,7 @@ The biggest verified Christmas discount codes in the 2025 season are 90% OFF wit
 
 ## Prop Firms with the Highest Discount Codes in Christmas 2025
 
-| # | Prop firm | Exclusive code | Code discount | Latest Christmas deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Current) | Latest Christmas deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 90% | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% off | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Funding Traders | PFD | 70% | Christmas Deal: 40% OFF + 1-on-1 CEO Call | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
@@ -172,7 +172,7 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives. It is not `discount_value` when this deal is a separate promotion. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
