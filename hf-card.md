@@ -31,9 +31,9 @@ The biggest verified Christmas discount codes in the 2025 season are 85% OFF wit
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 90% | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% off | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Funding Traders | PFD | 70% | Christmas Deal: 40% OFF + 1-on-1 CEO Call | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Atlas Funded | PFD | 50% | All evaluations half price for Christmas | 50% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 4 | Earn2Trade | PFD | 50% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 5 | QT Funded | PFD | 50% | Christmas Offer: 50% OFF All Evaluations + BOGO | 50% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | QT Funded | PFD | 60% | Christmas Offer: 50% OFF All Evaluations + BOGO | 50% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Atlas Funded | PFD | 50% | All evaluations half price for Christmas | 50% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 5 | Earn2Trade | PFD | 50% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 6 | Blue Guardian Futures | PFD | 35% | Christmas Offer: 60% OFF All Challenges | 60% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 7 | Goat Funded Trader | CSV | 35% | Christmas Offer: 50% OFF Sitewide Entry Fees | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | 8 | PipFarm | PFDC | 30% | Christmas Flash Deal: 60% OFF Challenge Pricing + Free Power-Up | 60% off | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
