@@ -1,6 +1,6 @@
 # Christmas Prop Firm Discount Codes (2026)
 
-As of 2026-01-05, 58 Christmas deals from 28 prop firms are tracked, 55 of them published in the 2025 season. Every firm below carries a verified discount code that works any time.
+As of 2026-01-05, 58 Christmas deals from 28 prop firms are tracked, 55 of them published in the 2025 season. Every firm carries a verified discount code that works any time.
 
 **The Christmas 2026 season is coming soon.** The last season that ran was 2025: 55 deals from 28 firms, published 2025-12-01 to 2025-12-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
 
@@ -11,15 +11,15 @@ The biggest verified Christmas discount codes in the 2025 season are 85% OFF wit
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Christmas deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 85% | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Earn2Trade | PFD | 60% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 3 | Funding Traders | PFD | 40% | Christmas Deal: 40% OFF + 1-on-1 CEO Call | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-christmas-40-off-mentorship/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 4 | QT Funded | PFD | 50% | Christmas Offer: 50% OFF All Evaluations + BOGO | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 2 | QT Funded | PFD | 50% | Christmas Offer: 50% OFF All Evaluations + BOGO | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | Earn2Trade | PFD | 60% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 4 | Funding Traders | PFD | 40% | Christmas Deal: 40% OFF + 1-on-1 CEO Call | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-christmas-40-off-mentorship/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 5 | Atlas Funded | PFD | 40% | All evaluations half price for Christmas | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-evaluations-christmas/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | 6 | AquaFunded | PFD | 35% | Christmas Sale: 50% Off Instant Accounts and 40% Off All Models | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-50-off-instant-accounts/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 7 | Blue Guardian Futures | PFD | 60% | Christmas Offer: 60% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 8 | Goat Funded Trader | CSV | 35% | Christmas Offer: 50% OFF Sitewide Entry Fees | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-christmas-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 9 | PipFarm | PFDC | 30% | Christmas Flash Deal: 60% OFF Challenge Pricing + Free Power-Up | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-christmas-flash-deal-60-off/) | Ended | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 10 | Super Funded | CHUN | 30% | Christmas Offer: 35% OFF All Evaluation Accounts | [View Deal](https://propfirmdiscount.com/deals/super-funded/super-funded-christmas-promotion-35-off/) | Ended | https://propfirmdiscount.com/prop-firm/super-funded/ |
+| 9 | Blue Guardian | PFD | 50% | Christmas Offer: 50% OFF Accounts and 30% OFF 2-Step Models | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-christmas-offer-50-percent-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 10 | Forexive | WHCTXQHRIG | 30% | Christmas Offer: 45% OFF Challenge Pricing + 150% Refund | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-christmas-45-off-refund/) | Ended | https://propfirmdiscount.com/prop-firm/forexive/ |
 
 The newest is **Christmas Sale: 85% OFF Entry Fee + BOGO Account** from Upcomers — 85% off.
 
