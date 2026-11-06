@@ -701,7 +701,7 @@
   },
   {
     "deal_id": 10295,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Christmas Deal: 40% OFF + 1-on-1 CEO Call",
     "event": "Christmas",
@@ -741,7 +741,7 @@
   },
   {
     "deal_id": 10290,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Christmas Exclusive: 50% OFF All Accounts",
     "event": "Christmas",
@@ -801,7 +801,7 @@
   },
   {
     "deal_id": 10266,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Christmas Gift: 50% OFF Instant Funded & PRO10 Accounts",
     "event": "Christmas",
