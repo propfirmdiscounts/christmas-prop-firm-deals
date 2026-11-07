@@ -4,7 +4,7 @@ As of 2026-01-05, 58 Christmas deals from 28 prop firms are tracked, 55 of them 
 
 **The Christmas 2026 season is coming soon.** The last season that ran was 2025: 55 deals from 28 firms, published 2025-12-01 to 2025-12-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
 
-The biggest verified Christmas discount codes in the 2025 season are 85% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at Blue Guardian, and 50% OFF with code PFD at QT Funded.
+The biggest verified Christmas discount codes in the 2025 season are 85% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at Blue Guardian, and 40% OFF with code PFD at FundingTraders.
 
 ## Prop Firms with the Highest Discount Codes in Christmas 2025
 
@@ -12,8 +12,8 @@ The biggest verified Christmas discount codes in the 2025 season are 85% OFF wit
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 85% | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | FundingTraders | PFD | 40% | Christmas Deal: 40% OFF + 1-on-1 CEO Call | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-christmas-40-off-mentorship/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | QT Funded | PFD | 50% | Christmas Offer: 50% OFF All Evaluations + BOGO | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 4 | Earn2Trade | PFD | 60% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 3 | Earn2Trade | PFD | 60% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 4 | QT Funded | PFD | 50% | Christmas Offer: 50% OFF All Evaluations + BOGO | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 5 | Atlas Funded | PFD | 40% | All evaluations half price for Christmas | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-evaluations-christmas/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | 6 | AquaFunded | PFD | 35% | Christmas Sale: 50% Off Instant Accounts and 40% Off All Models | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-50-off-instant-accounts/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 7 | Blue Guardian Futures | PFD | 60% | Christmas Offer: 60% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
