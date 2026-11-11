@@ -41,11 +41,11 @@ The newest is **Christmas Sale: 85% OFF Entry Fee + BOGO Account** from Upcomers
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 28 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 90% off with code PFD at Upcomers. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 28 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 93% off with code PFD at Upcomers. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 85% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is 85% off. Standing discount codes among these firms run up to 93% off, and every deal in the history below states its own figure.
 
 ---
 
