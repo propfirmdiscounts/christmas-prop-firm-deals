@@ -580,6 +580,46 @@
     "activation_link": "https://propfirmdiscount.com/go/theproptrade"
   },
   {
+    "deal_id": 10348,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "Christmas Offer: 100% Deposit Bonus on Deposits of $500+",
+    "event": "Christmas",
+    "offer_type": "deal",
+    "scope": [
+      "Deposits Of $500, $700, $1,000, Or $2,000+"
+    ],
+    "discount_value": "100% Deposit Bonus",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2025-12-15",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-christmas-deposit-bonus/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2025-12-15",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
+    "deal_id": 10347,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "Christmas Sale: 30% OFF 2-Step Challenges (From $41)",
+    "event": "Christmas",
+    "offer_type": "coupon",
+    "scope": [
+      "2-Step Challenges (All Sizes)"
+    ],
+    "discount_value": "30%",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2025-12-15",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-christmas-deal-30-off/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2025-12-15",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
     "deal_id": 10345,
     "prop_firm": "AquaFunded",
     "prop_firm_slug": "aquafunded",

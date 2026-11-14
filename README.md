@@ -1,8 +1,8 @@
 # Christmas Prop Firm Discount Codes (2026)
 
-As of 2026-01-05, 58 Christmas deals from 28 prop firms are tracked, 55 of them published in the 2025 season. Every firm carries a verified discount code that works any time.
+As of 2026-01-05, 60 Christmas deals from 29 prop firms are tracked, 57 of them published in the 2025 season. Every firm carries a verified discount code that works any time.
 
-**The Christmas 2026 season is coming soon.** The last season that ran was 2025: 55 deals from 28 firms, published 2025-12-01 to 2025-12-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
+**The Christmas 2026 season is coming soon.** The last season that ran was 2025: 57 deals from 29 firms, published 2025-12-01 to 2025-12-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
 
 The biggest verified Christmas discount codes in the 2025 season are 85% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at Blue Guardian, and 40% OFF with code PFD at FundingTraders.
 
@@ -24,11 +24,11 @@ The biggest verified Christmas discount codes in the 2025 season are 85% OFF wit
 The newest is **Christmas Sale: 85% OFF Entry Fee + BOGO Account** from Upcomers — 85% off.
 
 - Event: Christmas
-- Deals tracked: 58 (55 in 2025)
-- Firms: 28
-- Firms with a code in the 2025 season: 28
+- Deals tracked: 60 (57 in 2025)
+- Firms: 29
+- Firms with a code in the 2025 season: 29
 - Newest deal: 2026-01-05
-- Deals tagged on the site: 140 (58 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 140 (60 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/christmas/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -41,7 +41,7 @@ The newest is **Christmas Sale: 85% OFF Entry Fee + BOGO Account** from Upcomers
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 28 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 93% off with code PFD at Upcomers. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 29 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 93% off with code PFD at Upcomers. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
@@ -51,7 +51,7 @@ The newest deal is 85% off. Standing discount codes among these firms run up to 
 
 ## Christmas deal history
 
-Total deals tracked: **58**
+Total deals tracked: **60**
 
 ### 2026 (1 deal)
 
@@ -59,7 +59,7 @@ Total deals tracked: **58**
 |---|---|---|---|---|---|---|
 | 2026-01-05 | Upcomers | Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/) |
 
-### 2025 (55 deals)
+### 2025 (57 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -91,6 +91,8 @@ Total deals tracked: **58**
 | 2025-12-16 | Forexive | Christmas Offer: 55% OFF All Evaluations + Free Reset | 55% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-christmas-55-percent-off-free-reset/) |
 | 2025-12-16 | Blue Guardian | Christmas Offer: 50% OFF Accounts and 30% OFF 2-Step Models | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-christmas-offer-50-percent-off/) |
 | 2025-12-15 | thePropTrade | Christmas Deal: 20% OFF Instant Funding Account Fees | 20% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-christmas-20-off-instant-funding/) |
+| 2025-12-15 | Bullwaves Prime | Christmas Offer: 100% Deposit Bonus on Deposits of $500+ | 100% Deposit Bonus | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-christmas-deposit-bonus/) |
+| 2025-12-15 | Bullwaves Prime | Christmas Sale: 30% OFF 2-Step Challenges (From $41) | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-christmas-deal-30-off/) |
 | 2025-12-15 | AquaFunded | Christmas Sale: 50% Off Instant Accounts and 40% Off All Models | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-50-off-instant-accounts/) |
 | 2025-12-15 | Funding Your Trades | Christmas Offer: 45% OFF All Models + BOGO | 45% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-christmas-45-off-bogo/) |
 | 2025-12-14 | Upcomers | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) |
