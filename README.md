@@ -1,12 +1,12 @@
-# Christmas Prop Firm Discount Codes (2026)
+# Christmas Prop Firm Deals & Discount Codes (2026)
 
-This Christmas, 60 deals from 29 prop firms are tracked, with 57 published during the 2025 season. Every firm carries a verified discount code that works year-round.
+Explore Christmas prop firm deals and discount codes from 29 proprietary trading firms, with 60 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Christmas discount codes in the 2025 season are 85% OFF with code PFD at Upcomers, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at Blue Guardian, and 40% OFF with code PFD at FundingTraders.
 
 **The Christmas 2026 season is coming soon.** The last season that ran was 2025: 57 deals from 29 firms, published 2025-12-01 to 2025-12-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
 
-## Prop Firms with the Highest Discount Codes in Christmas 2025
+## Prop Firms with the Highest Christmas Discounts 2025
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Christmas deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -21,20 +21,23 @@ As of November 2026, the biggest verified Christmas discount codes in the 2025 s
 | 9 | Blue Guardian | PFD | 50% | Christmas Offer: 50% OFF Accounts and 30% OFF 2-Step Models with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-christmas-offer-50-percent-off/) | Ended | [Blue Guardian Page](https://propfirmdiscount.com/prop-firm/blue-guardian/) |
 | 10 | Forexive | WHCTXQHRIG | 30% | Christmas Offer: 45% OFF Challenge Pricing + 150% Refund | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-christmas-45-off-refund/) | Ended | [Forexive Page](https://propfirmdiscount.com/prop-firm/forexive/) |
 
-The newest is **Christmas Sale: 85% OFF Entry Fee + BOGO Account with code PFD** from Upcomers — 85% off.
+The latest recorded Christmas-tagged promotion is Upcomers offering Christmas Sale: 85% OFF Entry Fee + BOGO Account with code PFD, published on January 5, 2026. The offer has since ended.
 
 - Event: Christmas
-- Deals tracked: 60 (57 in 2025)
-- Firms: 29
+- Christmas deals in this dataset: 60
+- Firms represented: 29
+- Deals published in 2025: 57
 - Firms with a code in the 2025 season: 29
 - Newest deal: 2026-01-05
-- Deals tagged on the site: 140 (60 of them from firms with a verified code, listed below)
 - GitHub repository: [Christmas Deals Repository](https://github.com/propfirmdiscounts/christmas-prop-firm-deals)
+- All Christmas-tagged deals on the main site: 140 (60 of them from firms with a verified code, listed below)
 - Event page: [Christmas Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/christmas/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## Christmas prop firm deals FAQ
+This repository includes Christmas-tagged deals from firms with a verified standing discount code. The main website may contain additional Christmas-tagged promotions from firms that are not included in this dataset.
+
+## Christmas Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest Christmas prop firm deal?**
 
@@ -50,17 +53,17 @@ The newest deal is 85% off. Standing discount codes among these firms run 93% of
 
 ---
 
-## Christmas deal history
+## Christmas Prop Firm Deal History
 
 Total deals tracked: **60**
 
-### 2026 (1 deal)
+### 2026 Christmas Deals (1 deal)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
 | 2026-01-05 | Upcomers | Upcomers: Christmas Sale: 85% OFF Entry Fee + BOGO Account with code PFD | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/) |
 
-### 2025 (57 deals)
+### 2025 Christmas Deals (57 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -122,13 +125,13 @@ Total deals tracked: **60**
 | 2025-12-03 | Forexive | Forexive: Christmas Advent Deal: 30% Off + BOGO (Same Size) | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-christmas-advent-30-off-bogo/) |
 | 2025-12-01 | Forexive | Forexive: Christmas Advent Calendar: 50% OFF All Evaluations (Day 1) | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-christmas-advent-calendar-50-off-day-1/) |
 
-### 2024 (1 deal)
+### 2024 Christmas Deals (1 deal)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
 | 2024-12-25 | Atlas Funded | Atlas Funded: 60% Off All Evaluations This Christmas | 60% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-60-off-evaluations-christmas/) |
 
-### 2023 (1 deal)
+### 2023 Christmas Deals (1 deal)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -136,20 +139,19 @@ Total deals tracked: **60**
 
 ---
 
-## About this repository
+## About the Christmas Prop Firm Deals Dataset
 
-This repository mirrors every **Christmas** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of Christmas-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for Christmas on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [Christmas Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/christmas/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/christmas-prop-firm-deals.json`
+## Christmas Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -179,13 +181,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
