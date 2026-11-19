@@ -10,9 +10,9 @@ As of November 2026, the biggest verified Christmas discount codes in the 2025 s
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Christmas deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | FundingTraders | PFD | 40% | Christmas Deal: 40% OFF + 1-on-1 CEO Call with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-christmas-40-off-mentorship/) | Ended | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
-| 2 | Atlas Funded | PFD | 50% | All evaluations half price for Christmas | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-evaluations-christmas/) | Ended | [Atlas Funded Page](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
-| 3 | Earn2Trade | PFD | 60% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) | Ended | [Earn2Trade Page](https://propfirmdiscount.com/prop-firm/earn2trade/) |
+| 1 | Atlas Funded | PFD | 50% | All evaluations half price for Christmas | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-evaluations-christmas/) | Ended | [Atlas Funded Page](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
+| 2 | Earn2Trade | PFD | 60% | Christmas Offer: 60% OFF First 2 Months on TCP Accounts with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) | Ended | [Earn2Trade Page](https://propfirmdiscount.com/prop-firm/earn2trade/) |
+| 3 | FundingTraders | PFD | 40% | Christmas Deal: 40% OFF + 1-on-1 CEO Call with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-christmas-40-off-mentorship/) | Ended | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
 | 4 | QT Funded | PFDDEAL | 50% | Christmas Offer: 50% OFF All Evaluations + BOGO | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) | Ended | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
 | 5 | AquaFunded | PFD | 35% | Christmas Sale: 50% Off Instant Accounts and 40% Off All Models | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-50-off-instant-accounts/) | Ended | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
 | 6 | Blue Guardian Futures | PFD | 60% | Christmas Offer: 60% OFF All Challenges with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) | Ended | [Blue Guardian Futures Page](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/) |
@@ -45,11 +45,11 @@ This repository includes Christmas-tagged deals from firms with a verified stand
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 28 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 70% off with code PFD at FundingTraders. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 28 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 50% off with code PFD at Atlas Funded. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is Only $64. Standing discount codes among these firms run 70% off, and every deal in the history below states its own figure.
+The newest deal is Only $64. Standing discount codes among these firms run 50% off, and every deal in the history below states its own figure.
 
 ---
 
