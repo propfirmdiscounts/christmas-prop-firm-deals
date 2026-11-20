@@ -1,10 +1,10 @@
 # Christmas Prop Firm Deals & Discount Codes (2026)
 
-Explore Christmas prop firm deals and discount codes from 28 proprietary trading firms, with 57 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Christmas prop firm deals and discount codes from 26 proprietary trading firms, with 55 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Christmas discount codes in the 2025 season are 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 50% OFF with code PFD at Blue Guardian, and 40% OFF with code PFD at FundingTraders.
 
-**The Christmas 2026 season is coming soon.** The last season that ran was 2025: 55 deals from 28 firms, published 2025-12-01 to 2025-12-30. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
+**The Christmas 2026 season is coming soon.** The last season that ran was 2025: 53 deals from 26 firms, published 2025-12-01 to 2025-12-30. Discount codes are not seasonal — every one below works today — and new 2026 Christmas deals appear here as they are published, so check back for the lineup.
 
 ## Prop Firms with the Highest Christmas Discounts 2025
 
@@ -24,13 +24,13 @@ As of November 2026, the biggest verified Christmas discount codes in the 2025 s
 The latest recorded Christmas-tagged promotion is Equity Edge offering Holiday Promotion: $100K Instant Funded Account for $64, published on December 30, 2025. The offer has since ended.
 
 - Event: Christmas
-- Christmas deals in this dataset: 57
-- Firms represented: 28
-- Deals published in 2025: 55
-- Firms with a code in the 2025 season: 28
+- Christmas deals in this dataset: 55
+- Firms represented: 26
+- Deals published in 2025: 53
+- Firms with a code in the 2025 season: 26
 - Newest deal: 2025-12-30
 - GitHub repository: [Christmas Deals Repository](https://github.com/propfirmdiscounts/christmas-prop-firm-deals)
-- All Christmas-tagged deals on the main site: 140 (57 of them from firms with a verified code, listed below)
+- All Christmas-tagged deals on the main site: 140 (55 of them from firms with a verified code, listed below)
 - Event page: [Christmas Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/christmas/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -45,7 +45,7 @@ This repository includes Christmas-tagged deals from firms with a verified stand
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 28 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 50% off with code PFD at Atlas Funded. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 26 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 50% off with code PFD at Atlas Funded. The code is separate from the Christmas offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
@@ -55,9 +55,9 @@ The newest deal is Only $64. Standing discount codes among these firms run 50% o
 
 ## Christmas Prop Firm Deal History
 
-Total deals tracked: **57**
+Total deals tracked: **55**
 
-### 2025 Christmas Deals (55 deals)
+### 2025 Christmas Deals (53 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -71,9 +71,7 @@ Total deals tracked: **57**
 | 2025-12-25 | Funding Your Trades | Funding Your Trades: Christmas Offer: 45% OFF + Buy 1 Get 3 Accounts | 45% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-christmas-buy-1-get-3/) |
 | 2025-12-25 | Goat Funded Trader | Goat Funded Trader: Christmas Offer: 50% OFF Sitewide Entry Fees | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-christmas-promotion/) |
 | 2025-12-24 | PipFarm | PipFarm: Christmas Flash Deal: 60% OFF Challenge Pricing + Free Power-Up | 60% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-christmas-flash-deal-60-off/) |
-| 2025-12-24 | CK PropFirm | CK PropFirm: Christmas Offer: 70% OFF Evaluations + Account Giveaway | 70% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-capital-christmas-offer-70-off/) |
 | 2025-12-23 | QT Funded | QT Funded: Christmas Deal: 50% Off All Accounts + Free Account on Pass | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-deal-50-off/) |
-| 2025-12-23 | Alpha Futures | Alpha Futures: Christmas Offer: 40% Off All Accounts + Giveaway | 40% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-christmas-promotion/) |
 | 2025-12-22 | FundedNext Futures | FundedNext Futures: Christmas Offer: 100K Legacy Challenge for $149.99 | 40% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-christmas-100k-legacy-offer/) |
 | 2025-12-22 | PipFarm | PipFarm: Christmas Sale: 50% OFF Entry Fees + 50% Extra Balance | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-christmas-50-percent-off-50-percent-extra-balance/) |
 | 2025-12-22 | Funded Elite | Funded Elite: Christmas Deal: 40% Off Instant Accounts Starting $491 | 40% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/funded-elite/fundedelite-christmas-deal-40-off/) |
