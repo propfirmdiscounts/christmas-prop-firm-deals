@@ -3,7 +3,7 @@
 This dataset tracks every Christmas deal published on PropFirmDiscount.com by a
 prop firm carrying a verified discount code.
 
-Deals tracked: 55 across 26 firms. Newest deal: 2025-12-30.
+Deals tracked: 53 across 25 firms. Newest deal: 2025-12-30.
 Every deal row carries that firm's discount code, which works any time.
 
 Event page: https://propfirmdiscount.com/tag/christmas/
